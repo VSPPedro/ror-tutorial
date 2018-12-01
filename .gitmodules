@@ -1,0 +1,3 @@
+[submodule "Chapter1/ror-tutorial-hello-app"]
+	path = Chapter1/ror-tutorial-hello-app
+	url = git@github.com:VSPPedro/ror-tutorial-hello-app.git

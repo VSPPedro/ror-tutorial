@@ -10,3 +10,6 @@
 [submodule "Chapter4/ror-tutorial-sample-app"]
 	path = Chapter4/ror-tutorial-sample-app
 	url = git@github.com:VSPPedro/ror-tutorial-sample-app.git
+[submodule "Chapter5/ror-tutorial-sample-app"]
+	path = Chapter5/ror-tutorial-sample-app
+	url = git@github.com:VSPPedro/ror-tutorial-sample-app.git
